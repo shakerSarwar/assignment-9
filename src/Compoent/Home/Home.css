@@ -1,0 +1,8 @@
+main{
+    min-height: 95vh;
+    background-image: url('./../../images/townishRiders.jpg');
+    background-position: bottom;
+    background-size: cover;
+    align-items: center;
+    display: flex
+}

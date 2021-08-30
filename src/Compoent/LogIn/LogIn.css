@@ -1,0 +1,77 @@
+.logInOrRegisterFrom input,.logInOrRegisterFrom button{
+    width: 90%;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    margin-top: 30px;
+    padding: 5px 10px;
+}
+input:focus{
+    outline: none;
+}
+input[type="checkbox"]{
+    width: 10%;
+    cursor: pointer;
+    margin-top: 7px;
+}
+
+.cursor-pointer, label{
+    cursor: pointer;
+}
+.form-box{
+    width: 400px;
+}
+.custom-color{
+    color: #FF6E40;
+}
+.custom-bg-color{
+    background-color: #FF6E40;
+}
+.custom-underline{
+    text-decoration: underline;
+}
+.error{
+    color: red;    
+    margin: 17px 0 -12px;
+    text-align: left !important;
+    padding-left: 25px;
+}
+.font-weight-500{
+    font-weight: 500;
+}
+.form-devider{
+    color: red;
+    position: relative;
+    text-align: center;
+}
+.form-devider::before, .form-devider::after{
+    content: '';
+    display: block;
+    position: absolute;
+    width: 44%;
+    height: 1px;
+    background-color: gray;
+    text-align: center;
+    
+}
+.form-devider::before{
+    margin-top: 14px;
+}
+.form-devider::after{
+    margin-top: -10px;
+    right: 18px;
+}
+.social-singin-button button{
+    background: none;
+    padding: 4px 2px;
+    border: 1px solid gray;
+    border-radius: 19px;
+    display: block;
+    width: 95%;
+    margin: 0 auto;   
+}
+.social-singin-button button svg{
+    font-size: 25px;
+}
+.social-singin-button p{
+    margin: 0 auto;
+}

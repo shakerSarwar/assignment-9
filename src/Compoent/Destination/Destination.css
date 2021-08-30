@@ -1,0 +1,12 @@
+.pickup-form, .searchResultCard{
+    background-color: lightgray;
+}
+.pickup-form label{
+    font-size: 14px;
+    font-weight: bold;
+    color: gray;
+}
+.searchResult h3{
+   list-style: disc;
+}
+

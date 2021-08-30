@@ -1,0 +1,19 @@
+.navbar-light .navbar-brand{
+    font-weight: 700;
+}
+.showLogOut{
+    position: absolute;
+    background: #ffc107;
+    z-index: 11;
+    padding: 20px;
+    border-radius: 8px;
+    right: 0;
+    top: 50px;
+    text-align: center;
+}
+.userInfoArea{
+    position: relative;
+}
+.coursor-pointer{
+    cursor: pointer;
+}

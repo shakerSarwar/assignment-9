@@ -1,0 +1,13 @@
+.single-ride:hover{
+    cursor: pointer;
+}
+.single-ride{
+    background-color: #ffffff9c;
+    padding: 40px 6px;
+    border-radius: 8px;
+    transition: all .3s ease;
+}
+.single-ride:hover{
+    transform: scale(1.1);
+    
+}
