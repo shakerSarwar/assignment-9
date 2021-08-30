@@ -288,17 +288,6 @@ const LogIn = () => {
           )}
           {/* start Conditional change alredy have account text and functionality */}
         </div>
-        <p className="form-devider px-3 m-3">or</p>
-
-        <div className="px-3 social-singin-button">
-          <button
-            className="text-left d-flex align-items-center"
-            onClick={handelGoogleSingIn}
-          >
-            <FontAwesomeIcon icon={faGoogle} />
-            <p>Continue with Google</p>
-          </button>
-        </div>
       </article>
     </section>
   );

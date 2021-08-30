@@ -26,7 +26,7 @@ const Header = () => {
         <header>
             <Navbar bg="warning" expand="lg">
                 <Container>
-                    <Navbar.Brand as={Link} to="/">Townish Riders</Navbar.Brand>
+                    <Navbar.Brand as={Link} to="/">Colo Ghure Asi</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ml-auto">

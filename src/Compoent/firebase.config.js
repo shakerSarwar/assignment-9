@@ -1,6 +1,6 @@
 const firebaseConfig = {
     apiKey: "AIzaSyBizVpKM8YSWB_-o9UoTykaXkfhPQ7pt5k",
-    authDomain: "townish-riders.firebaseapp.com",
+    authDomain: "https://clo-ghure-asi-d3815.web.app/",
     projectId: "townish-riders",
     storageBucket: "townish-riders.appspot.com",
     messagingSenderId: "805823808722",
